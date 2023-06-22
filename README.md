@@ -3,7 +3,7 @@
 File and code found in this repository relate to the lab taught for DBEI Digital Built Week Americas 2023.
 
 ## Class Description
-This lab will provide an overview of how to connect your BIM content to web-based resources using REST APIs. We will utilize the open source pyRevit application and the Python Requests module in order to export and import data directly between Revit and the web. In this demo we will leverage Airtable and it’s well-documented API in order to enable us to create a lightweight database that lives outside of Revit.
+This tutorial provides an overview of how to connect your BIM content to web-based resources using REST APIs. We will utilize the open source pyRevit application and the Python Requests module in order to export and import data directly between Revit and the web. In this demo we will leverage Airtable and it’s well-documented API in order to enable us to create a lightweight database that lives outside of Revit.
 
 ## Learning Objectives
 * Understanding the basics of REST APIs and common HTTP request methods.
