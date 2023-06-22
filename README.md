@@ -14,3 +14,6 @@ This tutorial provides an overview of how to connect your BIM content to web-bas
 ## Notes
 * This content is only intended to be introductory. Users looking to expand on this will need to look further for doing more advanced requests on larger numbers of records.
 * The Python Requests module did not work on the virtual desktop clients provided during the in-person lab session. Therefore the code presents two options for making requests from pyRevit: (1) Python Requests module that ships with pyRevit, and (2) The WebClient class from System.Net. These two approaches are interchangable for purposes of this demonstration.
+
+## Handout
+[PDF Handout](https://github.com/jbf1212/revit-web-api-demo/blob/master/Handout_Web%20APIs%20with%20Revit%20and%20Python.pdf)
